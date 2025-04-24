@@ -72,13 +72,13 @@ export default function Hero({ locale, CTALocale }) {
 						<div className='flex justify-center w-full mt-4 gap-4'>
 							<a
 								className='btn btn-md lg:btn-lg btn-base rounded-full font-semibold px-8'
-								href='app.airsight.top'
+								href='https://app.airsight.top'
 							>
 								{CTALocale.btn2} <IoArrowForward className="ml-2 text-lg" />
 							</a>
 							<a
 								className='btn btn-md lg:btn-lg btn-base rounded-full font-semibold px-8'
-								href='app.airsight.top/sign-in'
+								href='https://app.airsight.top/sign-in'
 							>
 								{CTALocale.btn1} <RiLoginBoxLine className="ml-2 text-lg" />
 							</a>
